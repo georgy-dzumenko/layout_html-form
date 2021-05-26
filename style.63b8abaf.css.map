@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,YACE,kBACF,CAEA,+BACE,kBACF","file":"style.63b8abaf.css","sourceRoot":"..\\src","sourcesContent":[".inputBlock {\n  margin-bottom: 20px;\n}\n\n.inputElement:not(:last-child) {\n  margin-bottom: 10px;\n}\n"]}
